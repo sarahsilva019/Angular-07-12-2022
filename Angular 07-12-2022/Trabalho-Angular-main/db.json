@@ -1,0 +1,32 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Julia Maria Da Costa",
+      "telefone": "32976875465",
+      "email": "juliamariadacosta@gmail.com",
+      "empresa": "Empresa Julia"
+    },
+    {
+      "id": 2,
+      "nome": "Joao Pereira",
+      "telefone": "31975264295",
+      "email": "joaopereira@live.com",
+      "empresa": "Empresa Joao Pereira"
+    },
+    {
+      "id": 3,
+      "nome": "Sarah",
+      "telefone": "32943560987",
+      "email": "sarah@live.com",
+      "empresa": "Empresa Sarah"
+    },
+    {
+      "id": 4,
+      "nome": "Justin Bieber",
+      "telefone": "31973245678",
+      "email": "justinbieber@live.com",
+      "empresa": "Empresa Justin"
+    }
+  ]
+}
